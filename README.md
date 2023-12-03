@@ -2,11 +2,15 @@
   <b> ⚡ iShezmu ⚡ </b>
 </h1>
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=iShezmu&color=brightgreen" alt="watching_count" />
+ </p>
+ 
 Hola! My profession is changing tremendously as I shift from being an administrator to a developer. I'm a Full Stack Developer student at Holberton School. Coding skills are being tested as my classmates and I study programming through little projects.
 
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
 
 <picture> <img align="right" src="https://github.com/iShezmu/iShezmu/blob/main/IMG_6965.PNG" width = 250px></picture>
 
@@ -44,6 +48,10 @@ if __name__ == '__main__':
 
 ### 🔥 Streak Stats
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=iShezmu&theme=gruvbox&hide_border=true)
+
+### 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iShezmutheme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 ### 😜Here's a Joke for you:
